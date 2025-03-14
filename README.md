@@ -71,7 +71,4 @@ From the analysis, the following key observations were made:
 
 This analysis demonstrates the power of data visualization and statistical methods in understanding and interpreting experimental results. The insights gained from this study will help guide Pymaceuticals in making data-driven decisions regarding the efficacy of their drug regimens.
 
-## Links
-- [GitHub Repository](#) (Replace with actual URL)
-- [Challenge Assignment Details](#) (Replace with actual link)
 
